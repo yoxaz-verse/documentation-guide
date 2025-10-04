@@ -1,0 +1,17 @@
+{
+  "index": "Introduction",
+  "core_elements": "5 Core Elements",
+  "conversation": "Conversation Guide",
+  "about": {
+    "title": "Website",
+    "type": "page",
+    "href": "https://obaol.com",
+    "newWindow": true
+  },
+  "contact": {
+    "title": "Internal Site",
+    "type": "page",
+    "href": "https://automate.obaol.com",
+    "newWindow": true
+  }
+}
